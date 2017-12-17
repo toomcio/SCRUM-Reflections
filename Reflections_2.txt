@@ -1,0 +1,3 @@
+TDD:
+Test driven development, czyli najpierw pisanie testów (które oczywiœcie failuj¹),
+póŸniej pisanie implementacji kodu, który wype³nia wymagania testów. Skraca feedback loop.
