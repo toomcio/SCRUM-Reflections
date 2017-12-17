@@ -1,0 +1,7 @@
+Wymagania funkcjonalne:
+- odnosz¹ siê do implementacji, faktycznego zachowania aplikacji
+
+Wymagania niefunkcjonalne:
+- odnosz¹ siê do warunków nie zwi¹zanych z implementacj¹/zachowaniem
+ logicznym/biznesowym aplikacji, czyli UX, design, maksymalna ilosc 
+u¿ytkownika, response time, przepustowoœæ itd itp.
