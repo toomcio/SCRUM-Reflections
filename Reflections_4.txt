@@ -1,0 +1,2 @@
+G³ówna ró¿nica miêdzy Kanbanem, a Scrumem to brak ram czasowych w Kanbanie, które s¹ w Scrumie
+(2 tygodniowe spriny, a Kanban ci¹g³a praca na taœmoci¹gu).
